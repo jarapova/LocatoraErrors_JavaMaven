@@ -34,8 +34,9 @@ Session ID: 8e628759fe2771a61fd020d39854f87c
 4) Expected error: Unable to locate element { using: ""link text"", selector: ""//Справка"" }
 5) Expected error: Unable to locate element { using: ""name"", selector: ""//identifier"" }
 6) Expected error: Unable to locate element { using: ""partial link text"", selector: ""//Справка"" }
-7) Expected error: Unable to locate element { using: ""xpath"", selector: ""span[@class='RveJvd snByac']"" }"	"1) Actual error: Unable to locate element { using: ""class name"", selector: ""//RveJvd snByac"" } (WARNING: The server did not provide any stacktrace information)
+7) Expected error: Unable to locate element { using: ""xpath"", selector: ""span[@class='RveJvd snByac']"" }"	"
 * Actual error:
+1) Actual error: Unable to locate element { using: ""class name"", selector: ""//RveJvd snByac"" } (WARNING: The server did not provide any stacktrace information)
 2) Actual error: Unable to locate element { using: ""css selector"", selector: "".RveJvd snByac"" } (WARNING: The server did not provide any stacktrace information)
 3) Actual error: Unable to locate element { using: ""id"", selector: ""//identifierId"" } (WARNING: The server did not provide any stacktrace information)
 4) Actual error: Unable to locate element { using: ""link text"", selector: ""//Справка"" } (WARNING: The server did not provide any stacktrace information)
